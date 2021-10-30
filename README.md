@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulioLuiz
 - 👀 I’m interested in embedded systems, C language, python, and gather knowledge to apply it professionaly. 
 - 🌱 I’m currently learning everything possible about electronics, programming and embedded systems
-- 📫 Reach me at juliocesar.andradeluiz@gmail.com 
+- 📫 Reach me at juliocesar.andradeluiz@gmail.com & https://www.linkedin.com/in/julio-cesar-de-andrade-luiz-47462284/
 
 <!---
 JulioLuiz/JulioLuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
